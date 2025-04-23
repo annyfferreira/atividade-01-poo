@@ -1,7 +1,7 @@
-public class Quadrado {
+public class Exercicio01 {
     private double lado;
 
-    public Quadrado(double lado) {
+    public Exercicio01(double lado) {
         this.lado = lado;
     }
 
